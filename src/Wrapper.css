@@ -1,0 +1,15 @@
+header {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.all {
+    padding-right: 10px;
+    color: rgb(235, 185, 3);
+    font-weight: bold;
+}
+
+.new {
+    color: rgb(235, 185, 3);    
+    font-weight: bold;
+}
